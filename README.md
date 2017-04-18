@@ -1,6 +1,6 @@
 # Lte_RRC_meas
 My lte-RRC measurement project RRC_MEASUREMENT v8.4.0
-﻿
+﻿/* changes done */
 /********************************************************************************************************************************** 
 All rights reserved – Nex-G Exuberant Solutions Private Limited.                                                              **** 
 File Name    : Readme_RRC_MEASUREMENT.txt                                                                                     **** 
