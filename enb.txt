@@ -1,1 +1,2 @@
 This is the stub file of our rrc project. It contains all .c files.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
